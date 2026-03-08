@@ -7,7 +7,7 @@
 2. Зависимости:
 
 ```bash
-pip install pytest selenium
+pip install -r requirements.txt
 ```
 
 ## Запуск теста
